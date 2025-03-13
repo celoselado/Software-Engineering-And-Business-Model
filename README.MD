@@ -21,7 +21,7 @@ A disciplina **Software Engineering and Business Model** tem como foco a aplica�
 
 ## 💬 Contato
  
-Se quiser entrar em contato comigo ou compartilhar dicas, me manda uma mensagem no linkedin! 😊
-https://www.linkedin.com/in/celoselado/ 🐱‍🚀
+Se quiser entrar em contato comigo ou compartilhar dicas, me manda uma mensagem no LinkedIn! 😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-celoselado-blue?logo=linkedin)](https://www.linkedin.com/in/celoselado/) 🐱‍🚀
 
 ## 🚧 Em constante evolução
